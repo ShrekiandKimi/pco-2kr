@@ -1,0 +1,14 @@
+D:\C#\kr2\kr2tasks\bin\Debug\net9.0\kr2tasks.exe
+D:\C#\kr2\kr2tasks\bin\Debug\net9.0\kr2tasks.deps.json
+D:\C#\kr2\kr2tasks\bin\Debug\net9.0\kr2tasks.runtimeconfig.json
+D:\C#\kr2\kr2tasks\bin\Debug\net9.0\kr2tasks.dll
+D:\C#\kr2\kr2tasks\bin\Debug\net9.0\kr2tasks.pdb
+D:\C#\kr2\kr2tasks\obj\Debug\net9.0\kr2tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\kr2\kr2tasks\obj\Debug\net9.0\kr2tasks.AssemblyInfoInputs.cache
+D:\C#\kr2\kr2tasks\obj\Debug\net9.0\kr2tasks.AssemblyInfo.cs
+D:\C#\kr2\kr2tasks\obj\Debug\net9.0\kr2tasks.csproj.CoreCompileInputs.cache
+D:\C#\kr2\kr2tasks\obj\Debug\net9.0\kr2tasks.dll
+D:\C#\kr2\kr2tasks\obj\Debug\net9.0\refint\kr2tasks.dll
+D:\C#\kr2\kr2tasks\obj\Debug\net9.0\kr2tasks.pdb
+D:\C#\kr2\kr2tasks\obj\Debug\net9.0\kr2tasks.genruntimeconfig.cache
+D:\C#\kr2\kr2tasks\obj\Debug\net9.0\ref\kr2tasks.dll
